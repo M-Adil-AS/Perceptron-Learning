@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel='stylesheet' href='style.css'> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>   
+</head>    
+<body>
+
+    <div id="chart-container">
+        <canvas id="scatterChart"></canvas>
+        <canvas id='lineChart'></canvas>
+    </div>
+    <div id='query'>
+        <span>Humidity value(x): <input type='text' id='x'></span><br><br>
+        <span>Pressure value(y): <input type='text' id='y'></span><br><br>
+        <span>Generate point: <button id='gen'>Generate</button></span><br><br>
+        <span>Predict output: <button id='ans'>Predict</button></span><br><br>
+        <span>Output: <span id='output'></span></span><br><br>
+    </div>
+
+</body>
+<script src='api.js'></script> 
+<script src='config.js'></script> 
+<script src='functions.js'></script> 
+<script src='script.js'></script>   
+</html>
