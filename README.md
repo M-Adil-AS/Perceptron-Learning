@@ -11,5 +11,4 @@ Demo Link: https://m-adil-as.github.io/Perceptron-Learning/
 
 ![let slope = -wxwy let constant = -wowy](https://github.com/M-Adil-AS/Perceptron-Learning/assets/115668271/b9efd46d-76f9-49f8-903f-cd4a42a54d84)
 
-
 ![Untitled design (36)](https://github.com/M-Adil-AS/Perceptron-Learning/assets/115668271/0872405f-b347-4224-a552-074bddc8f31f)
